@@ -1,4 +1,4 @@
-### Hi, I'm Emmanuel Kufre 👋
+### Hi, I'm Emmanuel Kufre [Maxwell] 👋
 
 **Full-stack & blockchain engineer** building tools that actually move money and solve real problems.
 ---
