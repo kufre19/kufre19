@@ -15,15 +15,14 @@ Also building At **[Viedial Health](https://uwemhealth.com)**.
 
 ### 🛠️ What I Work With
 
-**Languages & Frameworks**  
-`TypeScript` · `JavaScript` · `Rust` · `Solidity` · `Python` · `PHP` · `Dart`  
-`React` · `Next.js` · `Node` · `Tailwind` · `Flutter`
-
+**Languages:** TypeScript, JavaScript, Rust, Solidity, Python, Dart, PHP  
+**Frameworks & Tools:** React, Laravel Node.js, Tailwind, Flutter  
+**Builds:** Full-stack products, DeFi tools, blockchain payments, AI tools
 **Blockchain & Payments**  
-Bitcoin · Lightning · tbDEX · Solana · Ethereum · Nostr
+Bitcoin · Lightning  · Solana · Ethereum · Nostr
 
 **Other**  
-Cybersecurity background · AI/chatbots · Full-stack product building
+AI Agents · Full-stack product building
 
 ---
 
