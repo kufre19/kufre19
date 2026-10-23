@@ -1,6 +1,6 @@
 ### Hi, I'm Emmanuel Kufre 👋
 
-**Full-stack & blockchain engineer** building tools that actually move money and solve real problems for people in Africa (and beyond).
+**Full-stack & blockchain engineer** building tools that actually move money and solve real problems.
 ---
 
 ### 🚀 Currently Building
